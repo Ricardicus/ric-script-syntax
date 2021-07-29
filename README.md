@@ -5,7 +5,7 @@ for [ric-script](https://github.com/Ricardicus/ric-script).
 
 # Install without Package Control
 
-* Place the ricscript.sublime-syntax file inside the Sublime Text packages User folder (Preferences | Browse Packages...)
+* Place the ricscript.sublime-syntax file inside the Sublime Text packages User folder (found under Preferences -> Browse Packages...)
 * Restart Sublime Text
 
 # Install with Package Control
