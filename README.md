@@ -1,8 +1,7 @@
-# Sublime Text Syntax highlightning for ric-script
+# Sublime Text syntax highlightning for ric-script
 
-This repo is dedicated for hosting syntax highlighting 
-of the language [ric-script](https://github.com/Ricardicus/ric-script) in
-Sublime Text.
+This repo is dedicated for hosting the Sublime Text syntax highlighting 
+of [ric-script](https://github.com/Ricardicus/ric-script).
 
 # Install manually
 
