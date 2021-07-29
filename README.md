@@ -12,5 +12,6 @@ Restart Sublime Text
 # Install with Package Control
 
 * Install Package Control
-* Run “Package Control: Install Package” command, find and install ric-script package.
+* Run “Package Control: Install Package” command, find and install ricscript package.
 * Restart Sublime Text if necessary 
+
