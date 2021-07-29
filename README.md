@@ -3,10 +3,10 @@
 This repo hosts Sublime Text syntax highlighting 
 for [ric-script](https://github.com/Ricardicus/ric-script).
 
-# Install manually
+# Install wihtout Package Control
 
-Place the ricscript.sublime-syntax file inside the Sublime Text packages User folder (Preferences | Browse Packages...)
-Restart Sublime Text
+* Place the ricscript.sublime-syntax file inside the Sublime Text packages User folder (Preferences | Browse Packages...)
+* Restart Sublime Text
 
 # Install with Package Control
 
