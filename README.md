@@ -1,8 +1,8 @@
-# Syntax highlightning for ric-script
+# Sublime Text Syntax highlightning for ric-script
 
 This repo is dedicated for hosting syntax highlighting 
-of [ric-script](https://github.com/Ricardicus/ric-script) in
-Sublime Text. 
+of the language [ric-script](https://github.com/Ricardicus/ric-script) in
+Sublime Text.
 
 # Install manually
 
@@ -12,5 +12,5 @@ Restart Sublime Text
 # Install with Package Control
 
 * Install Package Control
-* Run “Package Control: Install Package” command, find and install BBC BASIC package.
+* Run “Package Control: Install Package” command, find and install ric-script package.
 * Restart Sublime Text if necessary 
