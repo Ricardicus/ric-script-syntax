@@ -11,7 +11,10 @@ Restart Sublime Text
 
 # Install with Package Control
 
-* Install Package Control
-* Run “Package Control: Install Package” command, find and install ricscript package.
-* Restart Sublime Text if necessary 
+* Open Preferences -> Package Control
+* Select Add Repository 
+* Type in: https://github.com/Ricardicus/ric-script-syntax
+* Open Preferences -> Package Control
+* Select Install Package
+* Search for ric-script, find it, click it
 
