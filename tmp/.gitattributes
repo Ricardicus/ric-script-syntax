@@ -1,5 +1,0 @@
-# git files
-.gitattributes export-ignore
-
-# language definitions
-ricscript-syntax.sublime-project export-ignore
